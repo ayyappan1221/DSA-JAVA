@@ -1,3 +1,5 @@
+package Recrusion;
+
 import java.util.Scanner;
 
 public class Digitcount {
