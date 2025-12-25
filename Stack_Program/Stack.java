@@ -23,3 +23,9 @@ public class Stack {
         System.out.println(s.pop()); // 10
     }
 }
+
+baseball
+
+valid parathesis temperature 872
+leetcode
+arthimatic
